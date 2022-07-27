@@ -3,7 +3,7 @@ import pandas as pd
 from selenium import webdriver
 
 # Specify git folder path
-git_local_path = 'D:/资料/Github/JellyCatBirding/'
+git_local_path = 'D:/资料/Coding/Git/JellyCatBirding/'
 
 # import time
 # start = time.time()
